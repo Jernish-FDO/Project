@@ -1,3 +1,5 @@
+// import { addMessageToDB,getMessageFromDB,deleteMessageFromDB,updateMessageInDB } from "./database.js";
+
 const navlink = document.querySelectorAll('header nav a');
 const logolink = document.querySelector('.logo');
 const sections = document.querySelectorAll('section');
